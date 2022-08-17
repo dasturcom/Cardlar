@@ -33,11 +33,11 @@ img {
 
 .section {
   width: 100%;
-  max-width: 1240px;
 }
 .section .section-container {
   display: flex;
   justify-content: center;
+  margin-left: auto;
 }
 .section .section-container .box-left {
   display: flex;

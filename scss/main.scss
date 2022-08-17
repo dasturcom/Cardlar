@@ -38,11 +38,12 @@ img {
 
 .section {
     width: 100%;
-    max-width: 1240px;
+    // max-width: 1240px;
 
     .section-container {
         display: flex;
         justify-content: center;
+        margin-left: auto;
         
 
         .box-left {
